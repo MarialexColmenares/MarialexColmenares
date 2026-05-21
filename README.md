@@ -17,7 +17,7 @@ Soy un desarrollador en constante aprendizaje, apasionado por resolver problemas
 | :--- | :--- |
 | **Lenguajes** | `Python`, `JavaScript`, `SQL` |
 | **Frontend** | `HTML`, `CSS`, `React`, `Tailwind CSS` |
-| **Backend/Frameworks** | `Node.js`, `Django` |
+| **Backend/Frameworks** | `Node.js`, `FastApi` |
 | **Bases de Datos** | `PostgreSQL`, `MongoDB`, `MySQL` |
 
 ## 📬 Conéctate Conmigo
